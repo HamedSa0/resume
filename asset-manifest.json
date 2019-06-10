@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.2b069aa9.chunk.css",
+    "main.js": "/resume/static/js/main.a1ee9aea.chunk.js",
+    "main.js.map": "/resume/static/js/main.a1ee9aea.chunk.js.map",
+    "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+    "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+    "static/js/2.1a56b3a5.chunk.js": "/resume/static/js/2.1a56b3a5.chunk.js",
+    "static/js/2.1a56b3a5.chunk.js.map": "/resume/static/js/2.1a56b3a5.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.37abade1d5a3570f5062ffc427c62d7a.js": "/resume/precache-manifest.37abade1d5a3570f5062ffc427c62d7a.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.2b069aa9.chunk.css.map": "/resume/static/css/main.2b069aa9.chunk.css.map",
+    "static/media/css3.png": "/resume/static/media/css3.1f851630.png",
+    "static/media/jquery.png": "/resume/static/media/jquery.056741cb.png",
+    "static/media/nodejs.png": "/resume/static/media/nodejs.f8dab57d.png",
+    "static/media/php.png": "/resume/static/media/php.90ca90ad.png",
+    "static/media/python.png": "/resume/static/media/python.7dc67391.png",
+    "static/media/reactjs.png": "/resume/static/media/reactjs.2260eb1a.png"
+  }
+}

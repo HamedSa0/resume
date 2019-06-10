@@ -63,7 +63,7 @@ class About extends React.Component {
                 />
               </a>
 
-              <a href="https://github.com/">
+              <a href="https://github.com/Hamedsa0/">
                 <FontAwesomeIcon className="socialIcon" icon={faGithubSquare} />
               </a>
             </div>
